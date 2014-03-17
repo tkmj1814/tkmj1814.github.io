@@ -76,10 +76,6 @@ body{
  }
 
 
-P{
-	float: left; font-size: 150%; ;margin-left: 42%; 
-}
-
  header nav {
  	float:right;
  }
@@ -90,7 +86,7 @@ header nav li{
 
 
 p{
-	float: left; font-size:150%; font-weight: bold;margin-left: 42%; 
+	float: left; font-size:150%; margin-left: 42%; 
 
 }
 

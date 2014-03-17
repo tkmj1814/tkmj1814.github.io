@@ -95,7 +95,7 @@ ul{
 }
 
 li {
-	padding: 40px;
+	padding: 40px; font-size: 100%;
 }
 
 /* Main styles */

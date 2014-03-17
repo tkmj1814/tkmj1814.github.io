@@ -89,6 +89,13 @@ p{
 	float: left; font-size:150%; margin-left: 42%; margin-left: auto; margin-right:auto; border-left-width: 100px;
 }
 
+#page-wrap {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
+
+
 ul{
 	padding: 20px;
 }

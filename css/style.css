@@ -80,10 +80,6 @@ body{
  }
 
 
-header h2{
-	font-size: 200%;
-}
-
  header nav {
  	float:right;
  }
@@ -114,6 +110,7 @@ li {
 
 .align-center{
 	text-align: center;
+	font-size: 200%;
 }
 
  /* Footer styles  */

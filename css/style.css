@@ -76,6 +76,10 @@ body{
  }
 
 
+P{
+	float: left; font-size: 300%; font-weight: bold;margin-left: 42%; 
+}
+
  header nav {
  	float:right;
  }

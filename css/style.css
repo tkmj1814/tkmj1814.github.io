@@ -90,7 +90,7 @@ header nav li{
 
 
 p{
-	line-height: 30px;
+	float: left; font-size:150%; font-weight: bold;margin-left: 42%; 
 
 }
 

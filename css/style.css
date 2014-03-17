@@ -79,6 +79,11 @@ body{
  	float: left; font-size: 300%; font-weight: bold;margin-left: 42%; 
  }
 
+
+header h2{
+	font-size: 200%;
+}
+
  header nav {
  	float:right;
  }
